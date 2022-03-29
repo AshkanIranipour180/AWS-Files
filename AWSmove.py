@@ -5,7 +5,7 @@ s3.meta.client.upload_file('image1.jpg', 'mybucketashkan123', 'image1.jpg')
 
 time.sleep(30) # Sleep for 30 seconds
 
-s3.meta.client.upload_file('image2.jpg', 'mybucketashkan123', 'image2.jpg')
+s3.meta.client.upload_file('image2.png', 'mybucketashkan123', 'image2.png')
 
 time.sleep(30) # Sleep for 30 seconds
 
